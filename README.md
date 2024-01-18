@@ -17,3 +17,12 @@ This course will introduce students to information systems and technology (IS/IT
 
 ## Assignments 
 ### PC Assemble 
+<p float="left">
+<img src="photo_2024-01-18_21-42-03.jpg" alt="pc-assemble-1" width="256" height="245"/>
+<img src="photo_2024-01-18_21-42-18.jpg" alt="pc-assemble-2" width="256" height="245"/>
+<img src="photo_2024-01-18_21-42-22.jpg" width="240" height="245"/>
+<img src="photo_2024-01-18_21-42-25.jpg" width="240" height="245"/>
+<p>
+
+### Assignment 1: [Report on visiting NALI 2023](https://github.com/xr-lim/Technology-and-Information-System-SECP1513-/blob/main/Assignment%201.pdf)
+- 
