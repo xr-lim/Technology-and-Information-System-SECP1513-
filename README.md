@@ -24,5 +24,5 @@ This course will introduce students to information systems and technology (IS/IT
 <img src="photo_2024-01-18_21-42-25.jpg" width="240" height="245"/>
 <p>
 
-### Assignment 1: [Report on visiting NALI 2023](https://github.com/xr-lim/Technology-and-Information-System-SECP1513-/blob/3b002fcbeadadd5f1ab0160236a15b35c8ddca79/Assignment%201.pdf)
+### Assignment 1: [Report on visiting NALI 2023](Assignment 1.pdf)
 - 
