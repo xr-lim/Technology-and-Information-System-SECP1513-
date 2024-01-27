@@ -40,7 +40,8 @@ b.     The Virtual Talk on UTMDigital
 ### Assignment 4: [Report on Industrial Talk 2](https://github.com/xr-lim/Technology-and-Information-System-SECP1513-/blob/main/Assignment%204.pdf)
 - An industrial talk was held on 3rd January 2024 by Credence (TM Subsidiary)  to introduce their organization's system development. A report is created including a description of the system development, history, technology, and tool use in Credence’s system development.
 
-### Design Thinking Project 
+### Design Thinking Project : [Report](https://github.com/xr-lim/Technology-and-Information-System-SECP1513-/blob/main/Design%20Thinking%20Report%20(Group%209)-Lim%20Xin%20Rou.pdf)
+- Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design. Design thinking helps prepare student for a world where skills such as teamwork, problem solving, communication, analysis, creativity and the ability to influence others is becoming increasingly important in the work force. Students need to record and document all the process in design thinking which empathy, define, ideate, prototype and testing.  
 
 ## Reflection 
 <details>
@@ -71,4 +72,10 @@ A visit to UTM Digital and attending the virtual talk has benefits the students 
 <details>
 <summary>Assignment 4</summary>
 The talk was given by Ms Qistina, which were a UTM alumni and now working at Credence(TM subsidiary). The most impressive of her talks is the experience she shared with us during her uni life. She gave a lot of advice to university students like us. For instance, she mentioned that she faced a lot of challenges during her internship but due to her grit and determination, her superior saw potential in her and eventually offered a job for her in Credence. It's very inspirational to be such a dedicated and persevering person like her. Other than that, she also shared about the role of data analyst andit's importance which gave me an insight into the importance of data.
+</details>
+
+
+<details>
+<summary>Design Thinking Project</summary>
+I think that this design thinking project has sparked my creativity and passion for systems or software development. This project has provided me with an opportunity to implement my ideas and boosted my confidence. All in all, this project has also given me insights that cooperating with people and engaging with different ideas are very interesting and can bring better results. As the saying goes, no man is an island. I’ve realized the importance of communication when dealing with problems or difficulties. Hence, this project has also allowed me to express my ideas and concerns to other people to make things work effectively.
 </details>
